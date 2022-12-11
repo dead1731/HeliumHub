@@ -131,6 +131,14 @@ local Button = Tab3:CreateButton({
 })
 
 
+-- Credits
+local Tab69 = Window:CreateTab("Credits", 4483362458) -- Title, Image
+local Section69 = Tab69:CreateSection("Credits")
+
+local Label2 = Tab69:CreateLabel("made by ! ghost#1377")
+local Label3 = Tab69:CreateLabel("discord.io/helium-hub")
+local Label4 = Tab69:CreateLabel("Rayfield UI")
+
 
 
 
