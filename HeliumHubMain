@@ -3,7 +3,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 local Window = Rayfield:CreateWindow({
    Name = "Helium Hub",
    LoadingTitle = "Loading...",
-   LoadingSubtitle = "by ! ghost#1377",
+   LoadingSubtitle = "by ! specter#1377",
    ConfigurationSaving = {
       Enabled = true,
       FileName = "HeliumHub"
@@ -29,7 +29,7 @@ local Window = Rayfield:CreateWindow({
 
 Rayfield:Notify({
    Title = "Script Loaded!",
-   Content = "made by ! ghost#1377",
+   Content = "made by ! specter#1377",
    Duration = 5,
    Image = 4483362458,
    Actions = { -- Notification Buttons
@@ -135,7 +135,7 @@ local Button = Tab3:CreateButton({
 local Tab69 = Window:CreateTab("Credits", 4483362458) -- Title, Image
 local Section69 = Tab69:CreateSection("Credits")
 
-local Label2 = Tab69:CreateLabel("made by ! ghost#1377")
+local Label2 = Tab69:CreateLabel("made by ! specter#1377#1377")
 local Label3 = Tab69:CreateLabel("discord.io/helium-hub")
 local Label4 = Tab69:CreateLabel("Rayfield UI")
 
